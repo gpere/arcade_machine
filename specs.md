@@ -6,4 +6,4 @@ I don't know how large the 0.188 roms+ CHD files are, but the 0.165 fullset was 
 
 small sd card, the disc image is literally 602 MB, so we don't need that large of one.
 
-19" monitor is all we need (https://www.amazon.com/Dell-1907FPc-Rotating-Monitor-Silver/dp/B002XMQMQ4/ref=sr_1_3?s=pc&ie=UTF8&qid=1502924215&sr=1-3&keywords=19+inch+lcd&refinements=p_n_size_browse-bin%3A2633649011%2Cp_36%3A1253504011)[link]
+19" monitor is all we need [link] (https://www.amazon.com/Dell-1907FPc-Rotating-Monitor-Silver/dp/B002XMQMQ4/ref=sr_1_3?s=pc&ie=UTF8&qid=1502924215&sr=1-3&keywords=19+inch+lcd&refinements=p_n_size_browse-bin%3A2633649011%2Cp_36%3A1253504011)
